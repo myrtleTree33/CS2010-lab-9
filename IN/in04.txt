@@ -1,0 +1,35 @@
+
+3
+-- New Station --
+Enter road name:
+hehe
+Enter Qualifier:
+boo
+Enter ID:
+88888
+Enter GPS:
+5 6 7
+Enter Buses:
+20
+-- New Station --
+Enter road name:
+house
+Enter Qualifier:
+steel
+Enter ID:
+90909
+Enter GPS:
+0 3 4
+Enter Buses:
+55 23 7
+-- New Station --
+Enter road name:
+Digits
+Enter Qualifier:
+World
+Enter ID:
+70792
+Enter GPS:
+5 8 1
+Enter Buses:
+70A

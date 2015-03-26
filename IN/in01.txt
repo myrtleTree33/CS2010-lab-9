@@ -1,0 +1,23 @@
+2
+-- New Station --
+Enter road name:
+bla
+Enter Qualifier:
+aft circus
+Enter ID:
+12345
+Enter GPS:
+0 0 2
+Enter Buses:
+95A
+-- New Station --
+Enter road name:
+bla2
+Enter Qualifier:
+aft circus
+Enter ID:
+54321
+Enter GPS:
+78 90 2
+Enter Buses:
+2 25A

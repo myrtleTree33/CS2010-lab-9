@@ -1,0 +1,21 @@
+-- Database Dump --
+Adam Road-.Bef SICC(41141)(0.0,0.0,0.0)[95B, 2]
+Adam Road-.Opp SICC(41149)(0.5,0.0,0.0)[95A, 1]
+getRoadName 41141
+getRoadName 41141
+Adam Road
+getQualifier 41149
+getQualifier 41149
+Opp SICC
+getGPS 41141
+getGPS 41141
+(0.0,0.0,0.0)
+getBusStopAtThisStation 41141
+getBusStopAtThisStation 41141
+[95B, 2]
+distance 41141 41149
+distance 41141 41149
+0.5
+getDistance 41141 41140
+getDistance 41141 41140
+

@@ -1,0 +1,24 @@
+2
+-- New Station --
+Enter road name:
+Adam Road
+Enter Qualifier:
+Bef SICC
+Enter ID:
+41141
+Enter GPS:
+0 0 0
+Enter Buses:
+95B 2
+-- New Station --
+Enter road name:
+Adam Road
+Enter Qualifier:
+Opp SICC
+Enter ID:
+41149
+Enter GPS:
+0.5 0 0
+Enter Buses:
+95A 1
+

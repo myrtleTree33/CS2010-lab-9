@@ -1,0 +1,13 @@
+-- Database Dump --
+house-.steel(90909)(0.0,3.0,4.0)[55, 23, 7]
+hehe-.boo(88888)(5.0,6.0,7.0)[20]
+Digits-.World(70792)(5.0,8.0,1.0)[70A]
+getRoadName 8888
+getRoadName 8888
+Invalid Entry.
+getRoadName 88888
+getRoadName 88888
+hehe
+distance 88888 90909
+distance 88888 90909
+6.557438524302

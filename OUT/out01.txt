@@ -1,0 +1,21 @@
+-- Database Dump --
+bla2-.aft circus(54321)(78.0,90.0,2.0)[2, 25A]
+bla-.aft circus(12345)(0.0,0.0,2.0)[95A]
+getRoadName 12345
+getRoadName 12345
+bla
+getQualifier 54321
+getQualifier 54321
+aft circus
+getBusStop 12345
+getBusStop 12345
+bla-.aft circus(12345)(0.0,0.0,2.0)[95A]
+getGPS 54321
+getGPS 54321
+(78.0,90.0,2.0)
+getBusStopAtThisStation 54321
+getBusStopAtThisStation 54321
+[2, 25A]
+distance 12345 54321
+distance 12345 54321
+119.09659944767525
